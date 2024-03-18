@@ -23,9 +23,4 @@
       <directory>src</directory>
     </include>
   </source>
-  <coverage includeUncoveredFiles="true">
-    <report>
-      <clover outputFile="coverage/clover.xml" />
-    </report>
-  </coverage>
 </phpunit>
